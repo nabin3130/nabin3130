@@ -25,5 +25,5 @@ A branded community landing page connecting members across multiple social platf
 
 ## Connect with Me
 
-- LinkedIn: (링크)
-- Portfolio: (Digital Legacy 또는 Link Hub)
+- LinkedIn: www.linkedin.com/in/nabinkim
+- Portfolio: https://digital-legacy-five.vercel.app/
