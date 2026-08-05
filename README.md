@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Nabin 👋
 
-<!--
-**nabin3130/nabin3130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Development | Ecosystem Growth | Developer Marketing
 
-Here are some ideas to get you started:
+I build small products that solve real-world problems through AI, automation, and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a background in blockchain partnerships, ecosystem growth, and community building, I enjoy turning ideas into practical tools that improve user experiences and simplify complex workflows.
+
+## Featured Projects
+
+🌐 **Digital Legacy**  
+Helping individuals navigate digital account inheritance across major online services.
+
+🔎 **DocFind**  
+Making physician research activity easier to explore using public academic data.
+
+🤖 **X-to-Telegram**  
+Automating community updates from X to Telegram.
+
+🎬 **YouTube Subtitle Uploader**  
+Reducing repetitive multilingual subtitle uploads through workflow automation.
+
+🏠 **Real Homies Club**  
+A branded community landing page connecting members across multiple social platforms.
+
+## Connect with Me
+
+- LinkedIn: (링크)
+- Portfolio: (Digital Legacy 또는 Link Hub)
