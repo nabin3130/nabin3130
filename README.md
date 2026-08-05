@@ -1,10 +1,10 @@
 # Hi, I'm Nabin 👋
 
-Business Development | Ecosystem Growth | Developer Marketing
+Business Development | Ecosystem Growth
 
-I build small products that solve real-world problems through AI, automation, and modern web technologies.
+I enjoy identifying everyday problems and building practical products that make people's lives a little easier.
 
-With a background in blockchain partnerships, ecosystem growth, and community building, I enjoy turning ideas into practical tools that improve user experiences and simplify complex workflows.
+With a background in blockchain partnerships, ecosystem growth, and community building, I enjoy turning ideas into products that simplify complex workflows and improve user experiences.
 
 ## Featured Projects
 
