@@ -26,4 +26,4 @@ A branded community landing page connecting members across multiple social platf
 ## Connect with Me
 
 - LinkedIn: www.linkedin.com/in/nabinkim
-- Portfolio: nabin.cc
+- Portfolio: https://nabin.cc/
